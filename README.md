@@ -7,6 +7,7 @@
 </h3>
 
 ## Monokai Vibrant
+I like Monokai. I like Monokai with vibrant colors and minimal styling even more. Borders are only slightly visible. Kept a lot of things plain white to counteract the colorfulness.
 
 ## Theme
 Monokai Vibrant Theme based on jonotansberg "tweaked Monokai Dark Soda" .tmTheme. https://github.com/jonatansberg/Monokai-Dark-Soda.tmTheme
