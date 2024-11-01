@@ -20,7 +20,7 @@ Monokai Vibrant Theme based on jonotansberg "tweaked Monokai Dark Soda" .tmTheme
 <!-- Please replace "username/example" with your repository name. -->
 
 ```bash
-ya pack -a sanjinso/monodai-vibrant
+ya pack -a sanjinso/monokai-vibrant
 ```
 
 ## ⚙️ Usage
